@@ -1,54 +1,37 @@
 {
   "main": {
-    "id": "8e10c3aa863d6edf",
+    "id": "d39c76a0502a2943",
     "type": "split",
     "children": [
       {
-        "id": "de19e812fd65d643",
+        "id": "ac279680d3ed37a0",
         "type": "tabs",
         "children": [
           {
-            "id": "f1f67d97e3a84f38",
+            "id": "232f111169176eb2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "README img/Pasted image 20251129000100.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251129000100"
-            }
-          },
-          {
-            "id": "c1d0805a725fd860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7bb702cffec07829",
+    "id": "bd06a94fe515ff79",
     "type": "split",
     "children": [
       {
-        "id": "5bcc8c1c80040b65",
+        "id": "f2dd168365b962b2",
         "type": "tabs",
         "children": [
           {
-            "id": "54aa29c30439d1af",
+            "id": "5c3b034b68bf4938",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +44,7 @@
             }
           },
           {
-            "id": "811816e8c960e19f",
+            "id": "ffa323eb03c99299",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +61,7 @@
             }
           },
           {
-            "id": "daf6e998bcb14bd3",
+            "id": "3e670b24aa2bfed7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "038e57de9e881314",
+    "id": "027eb5e8ed9bcc10",
     "type": "split",
     "children": [
       {
-        "id": "c999327edcd84ee9",
+        "id": "fdee48d1b030dab3",
         "type": "tabs",
         "children": [
           {
-            "id": "32774f572b22f123",
+            "id": "f44e724cadf4b326",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "adfbeb35518d2054",
+            "id": "cb5d5e56b877306d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "40f442eafafe97c3",
+            "id": "5c038345a57d4191",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +131,7 @@
             }
           },
           {
-            "id": "98d3a288d7b5b276",
+            "id": "17af206211938810",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,18 +145,17 @@
             }
           },
           {
-            "id": "03d6a46de94305ba",
+            "id": "eb018d59280dae98",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -196,12 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1d0805a725fd860",
-  "lastOpenFiles": [
-    "README img/Pasted image 20251129000001.png",
-    "README img/Pasted image 20251129000100.png",
-    "README.md",
-    "README img",
-    "readme.md.md"
-  ]
+  "active": "232f111169176eb2",
+  "lastOpenFiles": []
 }
