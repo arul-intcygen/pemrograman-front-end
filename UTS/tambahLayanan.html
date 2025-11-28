@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tambah Layanan Baru</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo"><a href="index.html">ITTS Student Pack</a></div>
+    </nav>
+
+    <main class="container-small">
+        <div class="card-form">
+            <h2>Kontribusi Layanan</h2>
+            <p>Nemu layanan baru? Gas input dibawah.</p>
+            
+            <form id="addForm">
+                <div class="form-group">
+                    <label for="name">Nama Layanan</label>
+                    <input type="text" id="name" placeholder="Contoh: GitHub Student Pack" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="desc">Deskripsi & Cara Klaim</label>
+                    <textarea id="desc" rows="4" placeholder="Jelasin deskripsi singkat + cara nge-claimnya..." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="status">Status Validitas</label>
+                    <select id="status">
+                        <option value="Valid">Valid (Masih Bisa)</option>
+                        <option value="Tidak Valid">Tidak Valid (Expired)</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-submit">Simpan Layanan</button>
+            </form>
+            <br>
+            <a href="index.html" style="text-align: center; display: block; color: #666;">Kembali ke Beranda</a>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

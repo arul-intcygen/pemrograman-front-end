@@ -1,0 +1,9 @@
+Entitas Login :
+
+1. Admin
+2. Client
+
+Keterangan Entitas : 
+
+1. Admin bertugas menyetujui layanan yang diinputkan client.
+2. Client menambahkan input layanan baru.
