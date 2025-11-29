@@ -89,5 +89,7 @@ function handleAddService(e) {
     localStorage.setItem('ittsServices', JSON.stringify(services));
 
     alert('Layanan berhasil ditambahkan!');
-    window.location.href = 'index.html'; // Pindah balik ke halaman utama
+    window.location.href = 'index.html'; /
 }
+
+// powered by gemini plus
