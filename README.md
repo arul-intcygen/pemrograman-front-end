@@ -1,5 +1,5 @@
-# UTS
-Ide project ini bermula ketika saya mendapatkan banyak benefit bermodalkan email kampus (ITTS). Banyak layanan berbayar bisa didapatkan secara gratis dengan mendaftarkannya menggunakan email tersebut. Agar mahasiswa lain bisa mengetahui layanan apa saja yang ditawarkan dengan modal email ini, saya pun mencoba membuat project website untuk menampung bansos layanan yang masih valid di claim. Mudah-mudahan bermanfaat. 
+# ITTS Student Pack
+Ini adalah project UTS dan UAS saya di mata kuliah Pemrograman Front-End. Ide project ini bermula ketika saya mendapatkan banyak benefit bermodalkan email kampus (ITTS).  Banyak layanan berbayar bisa didapatkan secara gratis dengan mendaftarkannya menggunakan email tersebut. Agar mahasiswa lain bisa mengetahui layanan apa saja yang ditawarkan dengan modal email ini, saya pun mencoba membuat project website untuk menampung bansos layanan yang masih valid di claim. Mudah-mudahan bermanfaat. 
 
 - [Source code](https://github.com/arul-intcygen/pemrograman-front-end/tree/main/UTS)
 - [Figma](https://www.figma.com/design/ha88ZPoqMLpEtDZwo93B1m/hero-design?node-id=0-1&t=CiTRirO8ToquDgHb-1)
